@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/JetBrains-02303A?style=for-the-badge&logo=JetBrains&logoColor=white">
 
-<img src="https://img.shields.io/badge/Ibatis-02303A?style=for-the-badge&logo=My-batis&logoColor=white"><img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=My-batis&logoColor=white"><img src="https://img.shields.io/badge/Jpa-02303A?style=for-the-badge&logo=jpa&logoColor=white"> <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/SpringBoot-02303A?style=for-the-badge&logo=SpringBoot&logoColor=white"><img src="https://img.shields.io/badge/egovFrameWork-02303A?style=for-the-badge&logo=egovFrameWork&logoColor=white">
+<img src="https://img.shields.io/badge/Ibatis-02303A?style=for-the-badge&logo=My-batis&logoColor=white"><img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=My-batis&logoColor=white"><img src="https://img.shields.io/badge/Jpa-02303A?style=for-the-badge&logo=jpa&logoColor=white"> <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/SpringBoot-02303A?style=for-the-badge&logo=SpringBoot&logoColor=white"><img src="https://img.shields.io/badge/egovFrameWork-000000?style=for-the-badge&logo=egovFrameWork&logoColor=white">
 
 
 <img src="https://img.shields.io/badge/WAS-02303A?style=for-the-badge&logo=WAS&logoColor=white"><img src="https://img.shields.io/badge/Tomcat-000000?style=for-the-badge&logo=Tomcat&logoColor=white">
