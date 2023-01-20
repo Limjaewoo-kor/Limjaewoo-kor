@@ -23,4 +23,4 @@
 <img src="https://img.shields.io/badge/Git-02303A?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Svn-000000?style=for-the-badge&logo=svn&logoColor=white">
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Limjaewoo-kor)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limjaewoo-kor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Limjaewoo-kor)][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limjaewoo-kor&layout=compact)]
